@@ -1,0 +1,17 @@
+body{
+    background-color: #004494;
+    height: 950px;
+}
+html,body{
+    height: 100%;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+.main-box{
+    border: 3px solid yellow;
+    display: flex;
+    height: 100%;
+   
+}
